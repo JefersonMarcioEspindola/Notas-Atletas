@@ -1,0 +1,1 @@
+Transforme essa rotina monótona em uma jornada emocionante para o sucesso com a nossa incrível aplicação em javascript! Com ela, você pode registrar o nome e as notas de um atleta, calcular a média e visualizar o progresso em tempo real. Vamos juntos alcançar o topo!
